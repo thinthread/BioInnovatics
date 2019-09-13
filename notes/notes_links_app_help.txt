@@ -1,0 +1,5 @@
+docker:
+why do a removal of container
+docker-machine rm manager
+https://stackoverflow.com/questions/49726272/docker-run-why-use-rm-docker-newbie
+
